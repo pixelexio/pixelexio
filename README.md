@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com/demo/preview.php?user=pixelexio&theme=nightowl&date_format=n%2Fj%5B%2FY%5D"></a>
+<a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com/demo/preview.php?user=pixelexio&theme=nightowl&date_format=n%2Fj%5B%2FY%5D"></a>
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></a><br>
@@ -29,8 +29,6 @@
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{pixelexio}1212%2Fhit-counter"></a>
 
