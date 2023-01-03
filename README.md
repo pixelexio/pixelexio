@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=pixelexio&theme=nightowl&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></a>
+<href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=pixelexio&theme=nightowl&date_format=n%2Fj%5B%2FY%5D"></a>
 
 <!--
 **pixelexio/pixelexio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
